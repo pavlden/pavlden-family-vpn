@@ -223,7 +223,7 @@ title: "PavlDen Family VPN — Android"
 
 Если текущий сервер не подключается или работает нестабильно, попробуйте другой сервер.
 
-<!-- SCREENSHOT NEEDED: выбран другой сервер в актуальной карточке PavlDen Family VPN, белая полоса слева -->
+<!-- SCREENSHOT SOURCE: Screenshot_20260923_153544_com.happproxy.jpg — актуальная PavlDen Family VPN; выбран Phylex_NL_vless, белая вертикальная полоса слева показывает активный сервер. -->
 
 ### Проверка задержки серверов
 
