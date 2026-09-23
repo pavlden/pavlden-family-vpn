@@ -177,7 +177,7 @@ title: "PavlDen Family VPN — Android"
 
 Нажмите стрелку слева от названия подписки, чтобы раскрыть карточку.
 
-<!-- SCREENSHOT NEEDED: PavlDen Family VPN в свёрнутом состоянии -->
+<!-- SCREENSHOT SOURCE: Screenshot_20260923_153351_com.happproxy.jpg — PavlDen Family VPN в свёрнутом состоянии; видно название профиля, «Автообновление — 1 ч.» и нижние кнопки «Из буфера» / «QR-Код». -->
 
 ### Если в Happ уже есть другие подписки
 
